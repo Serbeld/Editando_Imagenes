@@ -1,4 +1,4 @@
-# Editimg
+# Editando Imágenes
 Este repositorio va destinado a la edición de imagenes mediante el uso de visión artificial.
 
 <img src="Taxi.PNG" />
